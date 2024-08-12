@@ -2,6 +2,7 @@
 
 apt update
 apt install nano
+apt install gh
 yes | apt install default-jdk
 wget https://dlcdn.apache.org/spark/spark-3.5.2/spark-3.5.2-bin-hadoop3.tgz
 tar xvf spark-3.5.2-bin-hadoop3.tgz
