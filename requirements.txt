@@ -3,4 +3,11 @@ scikit-surprise==1.1.4
 pandas==2.2.2
 ipykernel>=6.0.0
 scikit-learn==1.5.1
-tensorflow>=2.0.0
+tensorflow>=2.17.0
+keras==3.4.1
+tensorflow-datasets==4.9.3
+tensorflow-recommenders==0.7.3
+librecommender>=1.4.0
+pytorch>=2.3.0
+torchvision>=2.3.0
+torchaudio>=2.3.0
