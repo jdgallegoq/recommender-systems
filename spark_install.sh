@@ -15,4 +15,4 @@ source ~/.bashrc
 # export SPARK_HOME=/opt/spark
 # export PATH=$PATH:$SPARK_HOME/bin
 
-#pip install pypark
+#pip install pyspark
